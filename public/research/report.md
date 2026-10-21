@@ -2,7 +2,7 @@
 
 **Research date:20 October2026.** For a Hong Kong first-time creator with approximately40 toys in two colourways. No organizers were contacted or applications submitted. This report is grouped by status, without a final ranking, as requested.
 
-The clearest documented specialist routes for the remaining year are **three ARK waitlists with published fees**. Hong Kong has an accessible character-market recruitment form whose later terms remain unchecked, plus confirmed toy events with unknown exhibitor intake. No source guarantees a booth, acceptance or a cleared Taiwan selling arrangement.
+**Correction, 21 October 2026:** the user supplied the ATS Instagram-bio application link missed in the original research. The complete form was then read in authenticated Chrome. Amazing Toy Show accepts applications subject to organizer review and payment; no invitation prerequisite is stated. Three ARK waitlists and a conditional character-market form are additional routes. No source guarantees a booth, acceptance or a cleared Taiwan selling arrangement.
 
 ## Part A — Research statistics
 
@@ -13,19 +13,31 @@ The clearest documented specialist routes for the remaining year are **three ARK
 | Hong Kong / Taiwan edition records |21 /35|
 | TierA / B / C edition records |41 /11 /4|
 | Confirmed events overlapping November–December2026 |8|
-| Current public application pathways in that window |1 conditional|
+| Current application pathways in that window |1 reviewed/login required; 1 conditional|
 | Documented waitlist routes in that window |3|
-| Closed / unknown application statuses in that window |2 /2|
+| Closed / unknown application statuses in that window |2 /1|
 | Historical edition records |46|
 | Series with historical recurring/numbered/repeated/touring evidence |11|
 | Organizer, retailer, gallery, artist and collective records |36|
-| Sources / explicit network relationships |61 /14|
+| Sources / explicit network relationships |62 /14|
 
-The series total includes one-off programmes; it does not mean39 annual festivals. Organizer leads are separate from event counts. Two public application pathways exist across all dates when **HKICS2027** is included, but only White Market belongs to the immediate2026 window. Counts derive from the tables and `statistics.json`.
+The series total includes one-off programmes; it does not mean39 annual festivals. Organizer leads are separate from event counts. Three application pathways exist across all dates when **HKICS2027** is included; ATS and White Market belong to the immediate2026 window. Counts derive from the tables and `statistics.json`.
 
 ## Part B — Immediate opportunities by status
 
-### A — Conditional public application pathway
+### A — Reviewed and conditional application pathways
+
+**Amazing Toy Show 2026 — 11–13 December, HKCEC Hall 3, Wan Chai.**
+
+The [exhibitor application form](https://docs.google.com/forms/d/e/1FAIpQLSdLu7HjA2QgBd9PR0q1yrIMlyF_Wheoqf2zXBCYRkdktciJrA/viewform) requires Google sign-in and describes submission, brand/company review, payment for available booth choices, then email confirmation. Allocation is first-paid-first-served and applications may close early when full. No invitation prerequisite is stated.
+
+| Option | Size | Early bird / regular |
+|---|---|---|
+| A standard table | 2750 x 760 x 740mm table | HKD7,800 / HKD9,200 |
+| B side table | 3 x 1.5m footprint; same table | HKD12,800 / HKD14,200 |
+| C standard booth | 3 x 3m | HKD29,500 / HKD33,000 |
+
+**Application deadline, early-bird cutoff/current applicability, remaining capacity, approved sharing and overseas eligibility: UNKNOWN.** Required fields include contact details, exhibitor name and a logo file up to 100MB. Artist introduction and a PDF portfolio up to 100MB are optional. Contact **amazingtoyshow@amaz.hk**, or the HKTB-listed phone **+852 2713 7286**. Ask about remaining space and the current applicable rate before committing. Evidence: S001–S002/S062; E001. Form read on 21 October 2026; no details entered or application submitted.
 
 **小確佛 x 白紙市集 — 職場破地獄, final weekend**  
 **31 October–1 November2026; Langham Place L9–L12, Mong Kok.**
@@ -49,9 +61,6 @@ Single-day options quoteTWD2,400, but Taichung's header also prohibits single-da
 Next step: use [The ARK Monsters’ hub](https://portaly.cc/toymeric) to ask about waitlist movement, overseas eligibility and approved sharing, then settle Taiwan operating requirements before paying or booking. Evidence:S015–S017; E014–E016.
 
 ### C — Confirmed event; exhibitor intake unknown
-
-**Amazing Toy Show2026 —11–13 December, HKCEC Hall3, Wan Chai.**  
-The [HK Tourism Board](https://www.discoverhongkong.com/eng/events/event.id89983.amazing-toy-show-2026-.html) confirms dates, venue, Amaz/Koncept organizers and public phone **+85227137286**. Dedicated art-toy relevance is strong. **Application form, deadline, booth fee and newcomer eligibility:UNKNOWN.** Ask the [ATS account](https://www.instagram.com/amazingtoyshow/) about its smallest artist option and remaining intake. Sharing/representation is an enquiry idea, not a verified2026 offer. Evidence:S001–S002; E001.
 
 **Toys Assemble — 我們的玩具週末市集 —31 October–1 November, Whampoa Fashion World MTR level.**  
 The [mall page](https://www.thewhampoa.com/list/detail-927.html) confirms the vending weekend; the matching [2026 listing](https://timable.com/hk/zh/event/6ac4a165a075997c8aef946f/ToysAssemble-%E7%8E%A9%E5%85%B7%E9%9B%86%E7%B5%90-%E9%BB%83%E5%9F%94%E5%A4%A9%E5%9C%B0) identifies TCM as partner. It offers collector contact, but original-sofubi acceptance and late entry are unverified. Request TCM's vendor contact through the mall. **Deadline and fee:UNKNOWN.** Evidence:S021–S022; E018.

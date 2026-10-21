@@ -2,6 +2,8 @@
 
 Reference date and access date: **2026-10-20**, Asia/Hong_Kong.
 
+**ATS correction verified 2026-10-21:** S062 records the user-supplied Instagram-bio form, read in authenticated Chrome. E001 now links to the reviewed application form with Google sign-in, published table/booth rates and amazingtoyshow@amaz.hk. It has no stated invitation requirement. Deadline, early-bird cutoff, capacity and sharing remain unconfirmed. The initial omission is superseded by this correction.
+
 This database supports a Hong Kong artist launching approximately 40 original sofubi toys in two colourways. It distinguishes confirmed year-end events, historical editions, and prospective retail/community relationships. **No organizers were contacted, no applications submitted, and no website built.**
 
 The user subsequently requested no final ranking and no further validation of minor historical records. Consequently, the files preserve verification levels and five analyst evaluation fields but contain no overall ranking.

@@ -57,3 +57,7 @@ Historical discovery covers 2023–2026; no future dates extrapolated.
 - Search engine dates can conflict (e.g. publication versus crawl); use explicit source dates, otherwise UNKNOWN.
 - General toy searches produce many product preorders and family flea markets; these are excluded unless original collectible/creator audience evidence exists.
 - Historic November TTF dates must not be reused for 2026.
+# Correction — 21 October 2026
+
+The user supplied the Amazing Toy Show 2026 Instagram-bio application link missed during the initial research. Read the complete form in authenticated Chrome, without entering or submitting data. Added source S062 and corrected E001, O001, the year-end table and report: reviewed application route with sign-in, three booth options and published regular/early-bird rates, review/payment/confirmation process, first-paid-first-served allocation, logo/optional portfolio requirements and direct email. Deadline, early-bird cutoff/current applicability, remaining capacity, sharing and overseas eligibility are not stated. Initial ATS intake-unknown findings are superseded.
+

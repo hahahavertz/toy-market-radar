@@ -18,7 +18,9 @@ Use Node24 and npm. Run `npm ci`, then `npm run dev`. Open the printed URL inclu
 
 ## Research and trust
 
-The original seven CSV tables are in `public/data/`; original Markdown notes are in `public/research/`. The baseline has56 editions,39 series/programmes,36 entities and61 sources. UI totals are calculated, not hardcoded. Test assertions document this baseline so deliberate dataset changes should update the corresponding test expectations.
+The seven CSV tables are in `public/data/`; Markdown notes are in `public/research/`. The baseline has56 editions,39 series/programmes,36 entities and62 sources. UI totals are calculated, not hardcoded. Test assertions document this baseline so deliberate dataset changes should update the corresponding test expectations.
+
+Correction verified 2026-10-21: the user supplied the ATS Instagram-bio form omitted during initial research. Its complete content was read in authenticated Chrome. ATS now has a reviewed application route, sign-in requirement, published table/booth rates and direct email (S062). The early-bird cutoff, remaining capacity, sharing and application deadline remain unknown. No application was submitted.
 
 Research reference date:2026-10-20. Website development did not repeat the original investigation or independently confirm availability. `UNKNOWN` values remain unknown. A conditional form or waitlist is never labelled as guaranteed registration. Date evidence is separate from application evidence. Some dates rely on indexed sources or incomplete historical validation.
 

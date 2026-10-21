@@ -12,6 +12,7 @@ import {
   priority,
   provisional,
   safeUrl,
+  statusLabel,
   tables,
   temporal,
   validateDataset,
@@ -33,7 +34,7 @@ test("real baseline has complete foreign keys and original record counts", () =>
   assert.equal(d.events.length, 56);
   assert.equal(d.event_series.length, 39);
   assert.equal(d.organizers.length, 36);
-  assert.equal(d.sources.length, 61);
+  assert.equal(d.sources.length, 62);
 });
 test("year-end dates and evidence gate reproduce the eight researched entries", () => {
   assert.deepEqual(
@@ -52,7 +53,11 @@ test("conditional, waitlist, login and closed statuses remain distinct", () => {
   assert.equal(availability(event("E014")), "Waitlist");
   assert.equal(availability(event("E019")), "Closed");
   assert.equal(availability(event("E054")), "Open");
-  assert.equal(availability(event("E001")), "Unknown");
+  assert.equal(availability(event("E001")), "Open");
+  assert.equal(statusLabel(event("E001"), "2026-10-21"), "Apply for review · login required");
+  assert.match(event("E001").registration_url, /1FAIpQLSdLu7HjA2/);
+  assert.equal(event("E001").application_deadline, "UNKNOWN");
+  assert.match(event("E001").booth_fees, /7800 early bird \/ HKD9200 regular/);
 });
 test("dates are interpreted as calendar dates and invalid dates rejected", () => {
   assert.equal(isDate("2026-02-30"), false);
@@ -92,8 +97,9 @@ test("filters combine and reset without losing the baseline", () => {
 });
 test("provisional attention order is available to inspect", () => {
   const rows = priority(d).sort((a, b) => provisional(a, b, "2026-10-20"));
-  assert.equal(rows[0].event_id, "E017");
-  assert.ok(rows.slice(1, 4).every((e) => availability(e) === "Waitlist"));
+  assert.equal(rows[0].event_id, "E001");
+  assert.equal(rows[1].event_id, "E017");
+  assert.ok(rows.slice(2, 5).every((e) => availability(e) === "Waitlist"));
   assert.ok(rows.slice(-2).every((e) => availability(e) === "Closed"));
 });
 test("CSV roundtrip preserves commas, quotes and multiline notes", () => {

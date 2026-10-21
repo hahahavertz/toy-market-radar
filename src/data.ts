@@ -100,6 +100,8 @@ export function availability(e: Row, asOf?: string): Availability {
 }
 export function statusLabel(e: Row, asOf: string) {
   const a = availability(e, asOf);
+  if (a === "Open" && e.application_status === "OPEN_REVIEWED_FORM_LOGIN_REQUIRED")
+    return "Apply for review · login required";
   return a === "Open" && e.application_status.includes("LOGIN")
     ? "Window listed · login required"
     : a === "Conditional"

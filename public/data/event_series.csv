@@ -1,5 +1,5 @@
 ﻿"event_series_id","series_name","regions","recurrence_status","edition_ids","next_confirmed_edition","source_ids"
-"SER_ATS","Amazing Toy Show","Hong Kong","REPEATED_EDITIONS","E001;E030","E001","S001;S002;S032"
+"SER_ATS","Amazing Toy Show","Hong Kong","REPEATED_EDITIONS","E001;E030","E001","S001;S002;S062;S032"
 "SER_TTF","Taipei Toy Festival","Taiwan","ANNUAL_SERIES","E002;E029;E055;E056","UNKNOWN","S003;S032;S058;S059"
 "SER_MUSHROOM","Mushroom Festival 4th","Taiwan","REPEATED_EDITIONS","E003;E025;E026;E027","UNKNOWN","S004;S005;S032"
 "SER_SOFUBIGO","Sofubi Go","Hong Kong","ONE_OR_MORE_EDITIONS_NEXT_UNCONFIRMED","E004","UNKNOWN","S007;S008"
